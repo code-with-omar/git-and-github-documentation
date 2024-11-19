@@ -1,0 +1,6 @@
+ls -force
+git init
+git status
+git add fileName
+git add
+git restore test.txt
