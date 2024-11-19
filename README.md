@@ -53,3 +53,8 @@
 - `git rm --cached fileName` unstage a file from staging area
 - `git diff` - checking the differences of a staged file
 - `git restore fileName` - restore the file
+
+### 1.4  Committing Changes - git commit -m "Commit message"/ git commit -am "Commit message"
+- `git commit -m "Commit message` - Creates a commit with a message describing the changes.
+
+- `git commit -am "Commit message` - Stages and commits changes in tracked files (skipping git add).
